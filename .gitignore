@@ -2,8 +2,14 @@
 /node_modules
 
 # parcel bundler files
-.parcel-cache
-dist
+/.parcel-cache
+/dist
+
+#env
+.env
+
+#VS Code
+/.vscode
 
 # OS Files
 .DS_Store
